@@ -1,0 +1,28 @@
+[
+  {
+    "car_name": "BMW",
+    "country": "Uzbekistan",
+    "price": 45000,
+    "car_color": "Black",
+    "year": 2014,
+    "car_model": [
+      {
+        "model_name": "AMG",
+        "izBenzin": true
+      }
+    ]
+  },
+  {
+    "car_name": "Tesla",
+    "country": "America",
+    "price": 75000,
+    "car_color": "White",
+    "year": 2022,
+    "car_model": [
+      {
+        "model_name": "Model S",
+        "izBenzin": false
+      }
+    ]
+  }
+]
